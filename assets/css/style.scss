@@ -4,8 +4,36 @@
 @import "{{ site.theme }}";
 
 footer .profile {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+a, a:visited, a:active {
+  color: royalblue;
+  font-weight: bold;
+}
+
+a:hover {
+  color: cornflowerblue;
+}
+
+.container h2 {
+  padding: 20px 20px 0;
+  color: #fff;
+  font-size: 24pt;
+}
+
+.container .profile-picture {
+  float: right;
+  margin: 10px;
+  width: 150px;
+  border: 1px solid #fff;
+}
+
+.download-bar .inner {
+  color: goldenrod;
+  font-size: 16pt;
+  font-weight: bold;
 }
