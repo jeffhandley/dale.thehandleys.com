@@ -1,0 +1,7 @@
+remote_theme: pages-themes/time-machine@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: Dale Johnston Handley, Sr. - Arlington National Cemetery
+description: Lance Corporal, Dale Johnston Handley, Honored with Inurnment at Arlington National Cemetery, April 4, 2025
+
