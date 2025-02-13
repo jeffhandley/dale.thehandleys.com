@@ -3,7 +3,9 @@
 
 @import "{{ site.theme }}";
 
-.owner .photo {
-    text-align: center;
-    margin: 10px;
+.footer .profile {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
