@@ -39,10 +39,7 @@ Arlington National Cemetery suggests wearing attire that is appropriate for the 
 
 * Airport: Ronald Reagan Washington National Airport (DCA), located in Arlington, Virginia
 * Recommended Hotel: [Hampton Inn Alexandria/Pentagon South](https://www.hotels.com/ho117700/hampton-inn-alexandria-pentagon-south-alexandria-united-states-of-america)
-* Arlington National Cemetery: 1 Memorial Avenue, Arlington, Virginia 22211
-    * [Apple Maps](https://maps.apple.com/place?auid=9314909648073005820)
-    * [Google Maps](https://www.google.com/maps/place/1+Memorial+Ave,+Fort+Myer,+VA+22211/@38.8825875,-77.0712412,17z/data=!3m1!4b1!4m6!3m5!1s0x89b7b6f09967a3c3:0xde6350a4ed957167!8m2!3d38.8825834!4d-77.0686609!16s%2Fg%2F11b8z43dc3?entry=ttu&g_ep=EgoyMDI1MDIxMS4wIKXMDSoASAFQAw%3D%3D)
-    * [Bing Maps](https://www.bing.com/maps?cp=38.882932%7E-77.065659&lvl=16.0)
+* Arlington National Cemetery: 1 Memorial Avenue, Arlington, Virginia 22211<br />[Apple Maps](https://maps.apple.com/place?auid=9314909648073005820) - [Google Maps](https://www.google.com/maps/place/1+Memorial+Ave,+Fort+Myer,+VA+22211/@38.8825875,-77.0712412,17z/data=!3m1!4b1!4m6!3m5!1s0x89b7b6f09967a3c3:0xde6350a4ed957167!8m2!3d38.8825834!4d-77.0686609!16s%2Fg%2F11b8z43dc3?entry=ttu&g_ep=EgoyMDI1MDIxMS4wIKXMDSoASAFQAw%3D%3D) - [Bing Maps](https://www.bing.com/maps?cp=38.882932%7E-77.065659&lvl=16.0)
 
 ## Memorial Links
 
