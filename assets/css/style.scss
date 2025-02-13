@@ -19,13 +19,13 @@ a:hover {
   color: cornflowerblue;
 }
 
-.container h2 {
+h2.profile {
   padding: 20px 20px 0;
   color: #fff;
   font-size: 24pt;
 }
 
-.container .profile-picture {
+h2.profile img.profile-picture {
   float: right;
   margin: 10px;
   width: 150px;
