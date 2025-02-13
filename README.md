@@ -1,6 +1,6 @@
 **Dale Johnston Handley, Sr.** enlisted in the United States Marine Corps on September 1, 1965 and served until August 30, 1968. Dale completed three 6-month tours in Vietnam and achieved the rank of Lance Corporal. Dale earned the **National Defense Service Medal**, the **Vietnam Campaign Medal**, and the **Vietnam Service Medal**. Dale was honorably discharged and transferred to the Marine Corps Reserve.
 
-Dale, a proud veteran, had always hoped for inurnment at Arlington National Cemetery. This wish is fulfilled with military funeral honors and inurnment in the Columbarium Niche on Friday, April 4, 2025 at 15:00 EST.
+Dale, a proud veteran, always hoped for inurnment at [Arlington National Cemetery](https://www.arlingtoncemetery.mil/). This wish is fulfilled with military funeral honors and inurnment in a [Columbarium](https://www.arlingtoncemetery.net/columb.htm) niche on Friday, April 4, 2025 at 15:00 EST.
 
 ## Ceremony
 
@@ -10,7 +10,7 @@ Dale, a proud veteran, had always hoped for inurnment at Arlington National Ceme
 * Signs will let you know which lane is dedicated to your service
 * Proceed to the Administration Building
 * Immediate family will meet the Arlington National Cemetery representative and discuss service details
-* Procession from the administration building to the Columbarium Niche at 3:00pm
+* Procession from the administration building to the Columbarium at 3:00pm
 * Dale's urn will be placed in the wall
 * A Protestant military chaplain will provide a brief religious service
 * The US Marine Corps Firing Party will volley rifle shots
