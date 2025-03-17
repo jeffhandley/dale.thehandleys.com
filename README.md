@@ -16,6 +16,8 @@ Dale, a proud veteran, always hoped for inurnment at [Arlington National Cemeter
 * Signs will let you know which lane is dedicated to your service
 * Proceed to the Administration Building
 * Meet the Arlington National Cemetery representative and review service details
+* Professional photographs and video will be taken by [Mattox Photography](https://www.mattoxphotographyanc.com/)
+* Family photos will be taken before the ceremony
 * Procession from the administration building to the Columbarium at 3:00pm
 * Dale's urn will be placed in the wall
 * A Protestant military chaplain will provide a brief religious service
@@ -44,6 +46,9 @@ The general rules of thumb are: If you are moving past the flag and it is not mo
 
 **What should I do if I have other protocol questions?**
 When in doubt, ask! The Cemetery Representative, who represents Arlington National Cemetery at every service, would be delighted to explain it all to you.
+
+**Can I take pictures?**
+Yes. All photos and the video taken by Mattox photography will also be shared.
 
 ## More Information from Arlington National Cemetery
 
