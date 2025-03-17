@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+#content-wrapper.wrapper {
+  width: 90%!important;
+  max-width: 900px;
+}
+
 footer .profile {
   display: flex;
   flex-direction: column;
