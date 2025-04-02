@@ -81,3 +81,9 @@ Yes. All photos and the video taken by Mattox photography will also be shared.
 * [Obituary](https://www.evansfuneralhome.com/obituaries/Dale-Handley?obId=31464835)
 * [Funeral Video](https://www.youtube.com/watch?v=XoUMqee-Vx0)
 * [Tribute Video](https://www.youtube.com/watch?v=4DZFOTFMbAE&t=2s)
+
+## Handley Graves at Arlington National Cemetery
+
+John McMurchy Handley, Dale's grandfather, served in the US Coast Guard. He is buried with his wives Lavina and Elnora. His grave site is **[9844-A-RH](https://ancexplorer.army.mil/publicwmv/index.html#/arlington-national/search/results/1/igEBN6oBCTk4NDQtQS1SSA--/)**.
+
+William F. Handley, Dale's father's youngest brother known as "Uncle Bud," served in the US Navy. He is buried with his wife Agnes. His grave site is **[9844-A-LH](https://ancexplorer.army.mil/publicwmv/index.html#/arlington-national/search/results/1/igEBN6oBCTk4NDQtQS1MSA--/)**.
