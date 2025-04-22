@@ -78,9 +78,9 @@ Yes. All photos and the video taken by Mattox photography will also be shared.
 
 ## Memorial Links
 
-* [Obituary](https://www.evansfuneralhome.com/obituaries/Dale-Handley?obId=31464835)
-* [Funeral Video](https://www.youtube.com/watch?v=XoUMqee-Vx0)
-* [Tribute Video](https://www.youtube.com/watch?v=4DZFOTFMbAE&t=2s)
+* [Funeral Video](https://dale.thehandleys.com/funeral)
+* [Tribute Video](https://dale.thehandleys.com/tribute)
+* [Obituary](https://dale.thehandleys.com/obituary)
 
 ## Handley Graves at Arlington National Cemetery
 

@@ -11,11 +11,12 @@ Dale, a proud veteran, always hoped for inurnment at [Arlington National Cemeter
 
 ## Memorial Links
 
-* [Arlington Funeral Video](https://vimeo.com/1072957972/2c40c304e3)
-* [Arlington Funeral Photos (proofs)](https://www.teamphotonetwork.com/QPPlus/Proofs.aspx?Browse=True&EventID=2345129&AccountNumber=37970)
-* [Funeral Video](https://www.youtube.com/watch?v=XoUMqee-Vx0)
-* [Tribute Video](https://www.youtube.com/watch?v=4DZFOTFMbAE&t=2s)
-* [Obituary](https://www.evansfuneralhome.com/obituaries/Dale-Handley?obId=31464835)
+* [Arlington Funeral Video](https://dale.thehandleys.com/arlington-video)
+* [Arlington Funeral Photos (proofs)](https://dale.thehandleys.com/arlington-photos)
+* [Arlington Planning Page](https://dale.thehandleys.com/arlington-planning)
+* [Funeral Video](https://dale.thehandleys.com/funeral)
+* [Tribute Video](https://dale.thehandleys.com/tribute)
+* [Obituary](https://dale.thehandleys.com/obituary)
 
 ## Handley Graves at Arlington National Cemetery
 
